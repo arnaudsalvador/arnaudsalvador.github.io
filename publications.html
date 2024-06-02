@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arnaud Salvador - Publications</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .publication {
+            border: 1px solid #ccc;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Publications</h1>
+
+    <ul id="publicationList">
+        <!-- Publications will be dynamically added here -->
+    </ul>
+
+    <script>
+        // Function to fetch publications from NASA ADS
+        function fetchPublications(firstName, lastName) {
+            // Example URL (replace with actual NASA ADS API endpoint)
+            let apiUrl = `https://api.adsabs.harvard.edu/v1/search/query?q=author%3A"${firstName}%20${lastName}"&fl=title,author,year,bibcode&rows=10`;
+
+            // Fetch data from NASA ADS API
+            fetch(apiUrl, {
+                headers: {
+                    'Authorization': 'Bearer YOUR_API_KEY' // Replace with your actual API key
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                let publications = data.response.docs;
+                let publicationList = document.getElementById("publicationList");
+
+                // Loop through publications and create list items
+                publications.forEach(publication => {
+                    let li = document.createElement("li");
+                    li.classList.add("publication");
+                    li.innerHTML = `
+                        <strong>${publication.title}</strong><br>
+                        Authors: ${publication.author.join(", ")}<br>
+                        Year: ${publication.year}<br>
+                        Bibcode: ${publication.bibcode}
+                    `;
+                    publicationList.appendChild(li);
+                });
+            })
+            .catch(error => console.error('Error:', error));
+        }
+
+        // Call the function with your first and last name
+        fetchPublications("Arnaud", "Salvador");
+    </script>
+
+</body>
+</html>
+
