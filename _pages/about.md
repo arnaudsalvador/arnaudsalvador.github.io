@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Arnaud Salvador (he/him/his) is a Postdoctoral Research Scientist at the German Aerospace Center (DLR) in Berlin, Germany. He uses and develops planetary interior and atmospheric models to characterize the habitability of rocky planets, from the distant past to the near future. He is particularly interested in the evolution of the magma ocean, its outgassing, solidification, and cooling in interaction with the atmosphere and the implications for early water ocean formation on Earth, Venus, and exoplanets. Arnaud also investigates the capabilities of future direct imaging observatories in retrieving atmospheric properties and surface conditions of distant worlds, to refine instruments design and define the most efficient observing strategies.
 
 A data-driven personal website
 ======
