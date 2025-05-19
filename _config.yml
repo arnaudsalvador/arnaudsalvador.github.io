@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Arnaud Salvador / Site Title"
+title                    : "Arnaud Salvador"
 title_separator          : "-"
 name                     : &name "Arnaud Salvador"
-description              : &description "personal description"
+description              : &description "Postdoctoral Research Scientist at the German Aerospace Center (DLR) in Berlin, Germany."
 url                      : https://arnaudsalvador.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arnaudsalvador/arnaudsalvador.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Arnaud Salvador"
   pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral Research Scientist at the German Aerospace Center (DLR) in Berlin, Germany."
   location         : "Berlin, Germany"
   employer         : "German Aerospace Center (DLR)"
   uri              : # URL
@@ -34,12 +34,12 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : "http://arxiv.org/a/salvador_a_1"
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=YIpY8gUrwvsC&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-8106-6164"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : # https://www.researchgate.net/profile/Arnaud-Salvador
   scopus           : # URL
 
   # Repositories and software development
