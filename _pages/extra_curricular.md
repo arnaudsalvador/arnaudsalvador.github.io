@@ -5,4 +5,12 @@ permalink: /extra-curricular/
 author_profile: true
 ---
 
-Here you can describe your coaching, outreach, volunteering, or other activities outside of your main research.
+{% include base_path %}
+
+Outreach
+======
+
+Table Tennis
+======
+
+🚧 **Page under construction.** 🚧
