@@ -2,7 +2,7 @@
 title: "The relative influence of H2O and CO2 on the primitive surface conditions and evolution of rocky planets"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Salvador2017
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-06-15
 venue: 'Journal of Geophysical Research: Planets'
