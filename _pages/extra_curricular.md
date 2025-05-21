@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Extra-curricular"
 permalink: /extra-curricular/
 author_profile: true
@@ -9,6 +9,8 @@ author_profile: true
 
 Outreach
 ======
+
+🚧 **Page under construction.** 🚧
 
 Table Tennis
 ======
