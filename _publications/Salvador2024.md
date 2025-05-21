@@ -6,8 +6,8 @@ permalink: /publication/Salvador2024
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-07-01
 venue: 'The Astrophysical Journal Letters'
-paperurl: 'http://academicpages.github.io/files/Salvador_2024_ApJL_969_L22.pdf'
-bibtexurl: 'http://academicpages.github.io/files/Salvador2024.bib'
+paperurl: 'http://arnaudsalvador.github.io/files/Salvador_2024_ApJL_969_L22.pdf'
+bibtexurl: 'http://arnaudsalvador.github.io/files/Salvador2024.bib'
 citation: 'Your Name, You. (2010). &quot;Influence of Orbit and Mass Constraints on Reflected Light Characterization of Directly Imaged Rocky Exoplanets.&quot; <i>The Astrophysical Journal Letters</i>. 1(2).'
 ---
 

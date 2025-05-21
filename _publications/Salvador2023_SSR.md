@@ -6,8 +6,8 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023-09-20
 venue: 'Space Science Reviews'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-bibtexurl: 'http://academicpages.github.io/files/Salvador2017.bib'
+paperurl: 'http://arnaudsalvador.github.io/files/paper3.pdf'
+bibtexurl: 'http://arnaudsalvador.github.io/files/Salvador2017.bib'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Space Science Reviews</i>. 1(3).'
 ---
 
