@@ -22,7 +22,7 @@ repository               : "arnaudsalvador/arnaudsalvador.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_0156.HEIC"
+  avatar           : "IMG_0156.jpg"
   name             : "Arnaud Salvador"
   pronouns         : "he/him"  
   bio              : "Postdoctoral Research Scientist at the German Aerospace Center (DLR) in Berlin, Germany."
