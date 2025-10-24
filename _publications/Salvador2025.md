@@ -3,8 +3,8 @@ title: "Earth Analogs in Reflected Light: Insights from Early Spectral Character
 collection: publications
 category: manuscripts
 permalink: /publication/Salvador2025
-date: accepted
-venue: 'The Astrophysical Journal'
+#date: accepted
+venue: 'Accepted for publication in The Astrophysical Journal'
 excerpt: "<img src='/images/violin_H2O_fc_w_spectrum.png'>"
 #paperurl: 'http://arnaudsalvador.github.io/files/Salvador_2025.pdf'
 #bibtexurl: 'http://arnaudsalvador.github.io/files/Salvador2025.bib'
