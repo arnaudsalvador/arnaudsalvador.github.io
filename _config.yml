@@ -355,9 +355,9 @@ compress_html:
 
 
 # Visitor Counter Configuration
-visitor_counter:
-  enable: true
-  page_id: arnaudsalvador
-  left_color: gray
-  right_color: blue
-  style: flat
+#visitor_counter:
+#  enable: true
+#  page_id: arnaudsalvador
+#  left_color: gray
+#  right_color: blue
+#  style: flat
