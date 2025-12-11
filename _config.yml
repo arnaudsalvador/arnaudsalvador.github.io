@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Arnaud Salvador"
 title_separator          : "-"
 name                     : &name "Arnaud Salvador"
-description              : &description "Postdoctoral Research Scientist at the German Aerospace Center (DLR) in Berlin, Germany."
+description              : &description "Junior Professor at the Institut de Physique du Globe de Paris (IPGP), France."
 url                      : https://arnaudsalvador.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arnaudsalvador/arnaudsalvador.github.io"
@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "IMG_0156.jpg"
   name             : "Arnaud Salvador"
-  pronouns         : "he/him"  
-  bio              : "Postdoctoral Research Scientist at the German Aerospace Center (DLR) in Berlin, Germany."
-  location         : "Berlin, Germany"
-  employer         : "German Aerospace Center (DLR)"
+  pronouns         : "he/him"
+  bio              : "Junior Professor at the Institut de Physique du Globe de Paris (IPGP)."
+  location         : "Paris, France"
+  employer         : "Institut de Physique du Globe de Paris (IPGP)"
   uri              : # URL
-  email            : "arnaud.salvador@dlr.de" 
+  email            : "salvador@ipgp.fr"
 
   # Academic websites
   academia         : # URL
