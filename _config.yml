@@ -28,6 +28,7 @@ author:
   bio              : "Junior Professor at the Institut de Physique du Globe de Paris (IPGP)."
   location         : "Paris, France"
   employer         : "IPGP"
+  employer_url     : "https://www.ipgp.fr/en"
   uri              : # URL
   email            : "salvador@ipgp.fr"
 
