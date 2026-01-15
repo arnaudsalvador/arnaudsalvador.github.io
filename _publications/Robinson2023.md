@@ -7,5 +7,5 @@ date: 2023-01-19
 venue: 'The Planetary Science Journal'
 paperurl: 'http://arnaudsalvador.github.io/files/Robinson_2023_PSJ_4_10.pdf'
 bibtexurl: 'http://arnaudsalvador.github.io/files/Robinson2023.bib'
-citation: 'Robinson, T. D., <strong>Salvador, A.</strong> (2023). &quot;Exploring and Validating Exoplanet Atmospheric Retrievals with Solar System Analog Observations.&quot; <i>The Planetary Science Journal</i>. 4(1).'
+citation: 'Robinson, T. D., <strong>Salvador, A.</strong> (2023). &quot;Exploring and Validating Exoplanet Atmospheric Retrievals with Solar System Analog Observations.&quot; <i>The Planetary Science Journal</i>. 4(1). <a href="https://doi.org/10.3847/PSJ/acac9a">doi:10.3847/PSJ/acac9a</a>'
 ---
