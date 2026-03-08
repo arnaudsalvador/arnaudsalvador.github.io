@@ -35,6 +35,7 @@ Collection of various useful tools.
 - [TermHere](https://hashbang.productions/apps/termhere/) - Terminal shortcut for current directory
 - [Meld](https://meldmerge.org) - Visual diff and merge too (macOS app direct download [here](https://github.com/yousseb/meld/releases/download/osx-19/meldmerge.dmg))
 - [GitHub Desktop](https://desktop.github.com) - GUI for Git
+- [Mist](https://github.com/ninxsoft/Mist) - Lists and downloads macOS Firmwares and Installers
 
 ---
 
