@@ -16,6 +16,8 @@ Collection of various useful tools.
 - [Notion](https://www.notion.so/desktop) - All-in-one workspace (note-taking, project management, organization)
 - [Rectangle](https://rectangleapp.com) - Window management
 - [Dropover](https://dropoverapp.com) - Drag and drop utility, including file sharing
+- [FileVert](https://filevert.fr/en) - File transfer
+- [Fichiers](https://lasuite.numerique.gouv.fr/produits/fichiers) - File storage and sharing
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Advanced external display management
 
 ---
@@ -36,6 +38,8 @@ Collection of various useful tools.
 - [Meld](https://meldmerge.org) - Visual diff and merge too (macOS app direct download [here](https://github.com/yousseb/meld/releases/download/osx-19/meldmerge.dmg))
 - [GitHub Desktop](https://desktop.github.com) - GUI for Git
 - [Mist](https://github.com/ninxsoft/Mist) - Lists and downloads macOS Firmwares and Installers
+- [OpenCore Legacy Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/) - macOS installation on unsupported Macs
+- [uv](https://docs.astral.sh/uv/) - Fast Python package and project manager
 
 ---
 
