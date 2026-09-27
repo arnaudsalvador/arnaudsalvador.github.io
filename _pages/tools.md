@@ -25,6 +25,7 @@ Collection of various useful tools.
 ### Writing & Reference Management
 
 - [Overleaf](https://www.overleaf.com) - Online LaTeX editor
+- [Texmaker](https://www.xm1math.net/texmaker/download.html) - Free cross-platform LaTeX editor
 - [Detexify](https://detexify.kirelabs.org/classify.html) - LaTeX handwritten symbol recognition
 - [Mendeley](https://www.mendeley.com/download-reference-manager/macOS) - Reference manager with online synchronization
 
