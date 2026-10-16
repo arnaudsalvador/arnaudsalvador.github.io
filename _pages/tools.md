@@ -35,7 +35,7 @@ Collection of various useful tools.
 
 - [VS Code](https://code.visualstudio.com) - Source-code editor
 - [iTerm2](https://iterm2.com) - Terminal emulator
-- [TermHere](https://hashbang.productions/apps/termhere/) - Terminal shortcut for current directory
+- [TermHere](https://hashbang.productions/apps/termhere/) - Terminal shortcut for current directory (direct download [here](http://arnaudsalvador.github.io/files/TermHere.zip))
 - [Meld](https://meldmerge.org) - Visual diff and merge too (macOS app direct download [here](https://github.com/yousseb/meld/releases/download/osx-19/meldmerge.dmg))
 - [GitHub Desktop](https://desktop.github.com) - GUI for Git
 - [Mist](https://github.com/ninxsoft/Mist) - Lists and downloads macOS Firmwares and Installers
