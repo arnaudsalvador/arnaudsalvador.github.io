@@ -16,6 +16,7 @@ Collection of various useful tools.
 - [ArtCraft](https://getartcraft.com/apps) - Adobe suite apps, open-sourced
 - [Notion](https://www.notion.so/desktop) - All-in-one workspace (note-taking, project management, organization)
 - [Rectangle](https://rectangleapp.com) - Window management
+- [Tangerine](https://tangerineformac.com) - Zero-click offline file converter
 - [Dropover](https://dropoverapp.com) - Drag and drop utility, including file sharing
 - [FileVert](https://filevert.fr/en) - File transfer
 - [Fichiers](https://lasuite.numerique.gouv.fr/produits/fichiers) - File storage and sharing
