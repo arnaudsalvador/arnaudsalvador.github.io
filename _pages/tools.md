@@ -14,13 +14,15 @@ Collection of various useful tools.
 ### Productivity & Workflow
 
 - [ArtCraft](https://getartcraft.com/apps) - Adobe suite apps, open-sourced
-- [Notion](https://www.notion.so/desktop) - All-in-one workspace (note-taking, project management, organization)
-- [Rectangle](https://rectangleapp.com) - Window management
-- [Tangerine](https://tangerineformac.com) - Zero-click offline file converter
-- [Dropover](https://dropoverapp.com) - Drag and drop utility, including file sharing
+- [Notion](https://www.notion.so/desktop) - All-in-one workspace for notes, projects, and organization
+- [Rectangle](https://rectangleapp.com) - Window management with keyboard shortcuts
+- [Tangerine](https://tangerineformac.com) - Offline, zero-click file conversion
+- [BoringNotch](https://github.com/TheBoredTeam/boring.notch) - Turn MacBook's notch into a Dynamic Island-style hub
+- [Ice](https://github.com/jordanbaird/Ice) - macOS menu bar manager
+- [Dropover](https://dropoverapp.com) - Drag-and-drop shelf for files and sharing
 - [FileVert](https://filevert.fr/en) - File transfer
 - [Fichiers](https://lasuite.numerique.gouv.fr/produits/fichiers) - File storage and sharing
-- [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Advanced external display management
+- [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Advanced display management for macOS
 
 ---
 
