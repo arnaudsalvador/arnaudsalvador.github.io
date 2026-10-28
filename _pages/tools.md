@@ -17,8 +17,9 @@ Collection of various useful tools.
 - [Notion](https://www.notion.so/desktop) - All-in-one workspace for notes, projects, and organization
 - [Rectangle](https://rectangleapp.com) - Window management with keyboard shortcuts
 - [Tangerine](https://tangerineformac.com) - Offline, zero-click file conversion
+- [Vorssaint](https://github.com/vorssaint/vorssaint-utils) - All-in-one macOS toolkit for system monitoring, window management, clipboard history, audio controls, and file utilities
 - [BoringNotch](https://github.com/TheBoredTeam/boring.notch) - Turn MacBook's notch into a Dynamic Island-style hub
-- [Ice](https://github.com/jordanbaird/Ice) - macOS menu bar manager
+- [IceMelt](https://github.com/pnikolaidis/icemelt) - macOS menu bar manager
 - [Dropover](https://dropoverapp.com) - Drag-and-drop shelf for files and sharing
 - [FileVert](https://filevert.fr/en) - File transfer
 - [Fichiers](https://lasuite.numerique.gouv.fr/produits/fichiers) - File storage and sharing
